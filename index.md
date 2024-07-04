@@ -1,5 +1,5 @@
 ---
-title: Welcome to my sedixscope
+title: SedixScope Blogs
 ---
 Hey there, welcome to my blog space where I write on lots of programming stuff.
 
